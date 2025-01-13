@@ -1,8 +1,8 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "UPDATE FOUND",
-  "content_url": "https://github.com/SH-MODS/private/Demo.jpg",
+  "content_url": "",
   "positive_btn": "LET'S Download",
-  "link": "https://www.apkchatpro.com/2023/01/snapchatpro_01571329123.html",
+  "link": "",
   "cancelable": true
 }
