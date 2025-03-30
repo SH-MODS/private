@@ -1,8 +1,9 @@
 {
-  "show_message": false,
-  "title": "UPDATE FOUND",
-  "content_url": "",
-  "positive_btn": "LET'S Download",
+  "show_message": true,
+  "title": "EID MUBARAK",
+  "content_url": "Every year, you are a thousand good
+Happy Eid Fitr",
+  "positive_btn": "",
   "link": "",
   "cancelable": true
 }
